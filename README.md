@@ -1,0 +1,6 @@
+This is a simple page that displays a book. Using CSS, this book can be opened to the front page, to the middle, or to the back page. 
+It supports images or any other HTML content for the front cover, the front endsheet (the inside cover), the first page, the back of a page in the middle fo the book, the frot page of a page in the middle of the book, the back page, the back endsheet, the back cover, and the spine.
+
+This would be a great starting point for more customization, and it should not be difficult to change the size and/or aspect ratio of the book without changing the math needed to make this work.
+
+Note that setting the angle of the covers or the sections of the book beyond 90 degrees in either direction will cause some really strange side-effects.
