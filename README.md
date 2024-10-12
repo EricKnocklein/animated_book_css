@@ -1,4 +1,4 @@
-![](https://github.com/EricKnocklein/animated_book_css/blob/6c312c35a3b5dbbba74cceacbc67e40d9feb92a7/assests/demo.gif)
+![](https://github.com/EricKnocklein/animated_book_css/blob/main/assests/demo2.gif?raw=true)
 
 This is a simple page that displays a book. Using CSS, this book can be opened to the front page, to the middle, or to the back page. 
 It supports images or any other HTML content for the front cover, the front endsheet (the inside cover), the first page, the back of a page in the middle fo the book, the frot page of a page in the middle of the book, the back page, the back endsheet, the back cover, and the spine.
