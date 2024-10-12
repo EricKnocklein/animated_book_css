@@ -47,8 +47,13 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-image: url("./imgs/endsheet1.png");
-  background-size: 100% 100%;
+  background-image: url(https://ericknock.dev/img/Blackwork/The%20Procession.jpg);
+  border-top: 17px solid black;
+  border-bottom: 17px solid black;
+  border-left: 17px solid black;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: left center;
 }
 
 .spine,
@@ -99,8 +104,13 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background-size: 100% 100%;
-  background-image: url("./imgs/endsheet2.png");
+  background-image: url(https://ericknock.dev/img/Blackwork/The%20Procession.jpg);
+  border-top: 17px solid black;
+  border-bottom: 17px solid black;
+  border-right: 17px solid black;
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position: right center;
 }
 
 
