@@ -7,4 +7,4 @@ This would be a great starting point for more customization, and it should not b
 
 Note that setting the angle of the covers or the sections of the book beyond 90 degrees in either direction will cause some really strange side-effects.
 
-To read more about the book that is displayed, visit my [portfolio](https://ericknock.dev/projects/NaNoWriMo%202023).
+To read more about the book that is displayed, visit my [portfolio](https://ericknock.dev/projects/NaNoWriMo%202023) or my [author's website](https://eklittlehill.com).
