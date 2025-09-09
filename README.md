@@ -1,3 +1,5 @@
+# Animated Book CSS
+
 ![](https://github.com/EricKnocklein/animated_book_css/blob/main/assests/demo2.gif?raw=true)
 
 This is a simple page that displays a book. Using CSS, this book can be opened to the front page, to the middle, or to the back page. 
